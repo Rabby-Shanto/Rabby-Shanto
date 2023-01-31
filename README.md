@@ -12,11 +12,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fazlay rabby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fazlay rabby" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shanto-nstu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fazlay rabby" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20217121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20217121" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shanto" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/coders_oo7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shanto" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rabby-shanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rabby-shanto" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@coders_oo7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@coders_oo7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
